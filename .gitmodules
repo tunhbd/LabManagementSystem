@@ -1,0 +1,6 @@
+[submodule "projects/LMS.back-end"]
+	path = projects/LMS.back-end
+	url = https://github.com/tunhbd/LMS.back-end.git
+[submodule "projects/LMS.front-end"]
+	path = projects/LMS.front-end
+	url = https://github.com/tunhbd/LMS.front-end.git
